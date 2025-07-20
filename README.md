@@ -14,14 +14,8 @@
 
 ---
 
-### 🔧 Skills & Tools
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![YouTube](https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=youtube)
+### 🔧 Tools
+[YouTube](https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=youtube)
 
 ---
 
